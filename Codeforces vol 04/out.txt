@@ -1,0 +1,18 @@
+Account id: 10
+Account Name: rasel
+Account Type: A
+Account Balance: 950
+Account Branch: mirpur
+
+Account id: 3
+Account Name: jaki
+Account Type: B
+Account Balance: 1200
+Account Branch: Bashundhara
+
+Account id: 19
+Account Name: abc
+Account Type: C
+Account Balance: 1090
+Account Branch: Bashundhara
+
